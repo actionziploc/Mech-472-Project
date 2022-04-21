@@ -1,0 +1,7 @@
+﻿  program.cpp
+  timer.cpp
+  vision.cpp
+  Generating Code...
+image_transfer.lib(image_transfer.obj) : warning LNK4099: PDB 'program.pdb' was not found with 'image_transfer.lib(image_transfer.obj)' or at 'C:\Users\karla\Desktop\Mech 472 Project\vision_example_6.1_centroids\Debug\program.pdb'; linking object as if no debug info
+image_transfer.lib(Video_IO.obj) : warning LNK4099: PDB 'program.pdb' was not found with 'image_transfer.lib(Video_IO.obj)' or at 'C:\Users\karla\Desktop\Mech 472 Project\vision_example_6.1_centroids\Debug\program.pdb'; linking object as if no debug info
+  program.vcxproj -> C:\Users\karla\Desktop\Mech 472 Project\vision_example_6.1_centroids\Debug\program.exe

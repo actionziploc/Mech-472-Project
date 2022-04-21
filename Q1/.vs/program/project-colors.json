@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e56bce6-5c39-441d-9cac-2739075fa2bc": {
+      "ProjectGuid": "7e56bce6-5c39-441d-9cac-2739075fa2bc",
+      "DisplayName": "program",
+      "ColorIndex": 0
+    },
+    "acd2cccc-82ab-4d8c-bd4f-d4c15582c2c9": {
+      "ProjectGuid": "acd2cccc-82ab-4d8c-bd4f-d4c15582c2c9",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
